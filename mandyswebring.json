@@ -1,0 +1,20 @@
+[
+  {
+      name: "Variable Fonts for Developers",
+      url: "https://variablefonts.dev",
+      description: "A collection of fun experiments, effects, examples and stuff I have learned as a developer about variable fonts.",
+      owner: "Mandy Michael"
+  },
+  {
+      name: "TextEffects.dev",
+      url: "https://texteffects.dev",
+      description: "A collection of fun experiments, effects, examples and tips on how to create text effects using CSS, HTML, and JavaScript.",
+      owner: "Mandy Michael"
+  },
+  {
+      name: "TextLab.dev",
+      url: "https://textlab.dev",
+      description: "All about the stuff I have learned about working with text on the web.",
+      owner: "Mandy Michael"
+  }
+]
